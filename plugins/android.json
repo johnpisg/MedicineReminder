@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-velda-devicefeedback": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "47288883895",
+            "PACKAGE_NAME": "com.ionicframework.medreminder934633"
+        }
+    },
+    "dependent_plugins": {}
+}

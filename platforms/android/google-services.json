@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47288883895",
+    "firebase_url": "https://medreminder934633.firebaseio.com",
+    "project_id": "medreminder934633",
+    "storage_bucket": "medreminder934633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47288883895:android:13c4a3cd947c14d1",
+        "android_client_info": {
+          "package_name": "com.ionicframework.medreminder934633"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47288883895-ap13tcnfajimmdngp4q4hu2avmk23vqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LPg8z962l2qqi0yJ7-vmZoG0yhQDeGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
